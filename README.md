@@ -38,7 +38,7 @@ Server and Client deployed on Vercel
 
 Environment variables for API keys and backend URLs
 
-CORS properly configured for frontend-backend integratio
+CORS properly configured for frontend-backend integration
 
 ...
 
