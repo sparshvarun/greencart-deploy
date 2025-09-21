@@ -43,5 +43,5 @@ CORS properly configured for frontend-backend integratio
 ...
 
 📸 Screenshots
-<img width="1440" height="900" alt="Screenshot 2025-09-18 at 12 12 24 AM" src="https://github.com/user-attachments/assets/f5cd91d5-3233-41ca-bf1b-b643976613e8" />
 
+<img width="1440" height="900" alt="Screenshot 2025-09-21 at 12 31 06 PM" src="https://github.com/user-attachments/assets/e13ea1e8-4855-42ed-bf6d-06fe0f8cc1eb" />
